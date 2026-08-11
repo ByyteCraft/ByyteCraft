@@ -1,14 +1,13 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
-        <linearGradient id="card-background" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0f2027"/><stop offset="100%" stop-color="#203a43"/></linearGradient>
-<style>
+    <style>
       .mono { font-family: 'Courier New', Courier, monospace; }
       .display { font-family: Arial, Helvetica, sans-serif; font-weight: 900; }
       .script { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
     </style>
   </defs>
 
-  <rect width="1200" height="420" rx="18" fill="url(#card-background)"/>
+  <rect width="1200" height="420" rx="18" fill="#161616"/>
 
   <!-- top bar: dots + line + year -->
   <circle cx="42" cy="40" r="6" fill="#F0EFEA"/>

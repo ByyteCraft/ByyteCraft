@@ -1,20 +1,19 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
-        <linearGradient id="card-background" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0f2027"/><stop offset="100%" stop-color="#203a43"/></linearGradient>
-<style>
+    <style>
       .mono { font-family: 'Courier New', Courier, monospace; }
       .display { font-family: Arial, Helvetica, sans-serif; font-weight: 900; }
       .script { font-family: Georgia, 'Times New Roman', serif; font-style: italic; }
     </style>
   </defs>
 
-  <rect width="1200" height="420" rx="18" fill="url(#card-background)"/>
+  <rect width="1200" height="420" rx="18" fill="#F0EFEA"/>
 
   <!-- top bar: dots + line + year -->
-  <circle cx="42" cy="40" r="6" fill="#F0EFEA"/>
+  <circle cx="42" cy="40" r="6" fill="#161616"/>
   <circle cx="60" cy="40" r="6" fill="#F5A623"/>
-  <line x1="80" y1="40" x2="1050" y2="40" stroke="#F0EFEA" stroke-width="1" opacity="0.35"/>
-  <text x="1158" y="45" text-anchor="end" class="mono" font-size="14" fill="#F0EFEA" opacity="0.6">2026</text>
+  <line x1="80" y1="40" x2="1050" y2="40" stroke="#161616" stroke-width="1" opacity="0.35"/>
+  <text x="1158" y="45" text-anchor="end" class="mono" font-size="14" fill="#161616" opacity="0.6">2026</text>
 
   <!-- quote mark -->
   <text x="40" y="140" class="display" font-size="46" fill="#F5A623">&#8221;</text>
@@ -27,22 +26,22 @@
   <rect x="40" y="150" width="230" height="90" rx="20" fill="#F5A623"/>
   <text x="52" y="215" class="display" font-size="72" fill="#161616">JOHN</text>
 
-  <text x="40" y="335" class="display" font-size="72" fill="#F0EFEA">NYAMWEYA<tspan fill="#F5A623">.</tspan></text>
+  <text x="40" y="335" class="display" font-size="72" fill="#161616">NYAMWEYA<tspan fill="#F5A623">.</tspan></text>
 
   <!-- divider -->
-  <line x1="40" y1="365" x2="1160" y2="365" stroke="#F0EFEA" stroke-width="1" opacity="0.25"/>
+  <line x1="40" y1="365" x2="1160" y2="365" stroke="#161616" stroke-width="1" opacity="0.25"/>
 
   <!-- meta row -->
-  <circle cx="55" cy="392" r="15" fill="none" stroke="#F0EFEA" stroke-width="1.2" opacity="0.6"/>
-  <text x="49" y="397" class="mono" font-size="13" fill="#F0EFEA">&#8594;</text>
-  <text x="82" y="398" class="mono" font-size="15" fill="#F0EFEA" font-weight="bold">github.com/ByyteCraft</text>
+  <circle cx="55" cy="392" r="15" fill="none" stroke="#161616" stroke-width="1.2" opacity="0.6"/>
+  <text x="49" y="397" class="mono" font-size="13" fill="#161616">&#8594;</text>
+  <text x="82" y="398" class="mono" font-size="15" fill="#161616" font-weight="bold">github.com/ByyteCraft</text>
 
-  <text x="1160" y="391" text-anchor="end" class="script" font-size="14" fill="#F0EFEA" opacity="0.75">Founder of Ryvo</text>
-  <text x="1160" y="410" text-anchor="end" class="script" font-size="14" fill="#F0EFEA" opacity="0.75">Building Software Since 2023</text>
+  <text x="1160" y="391" text-anchor="end" class="script" font-size="14" fill="#161616" opacity="0.75">Founder of Ryvo</text>
+  <text x="1160" y="410" text-anchor="end" class="script" font-size="14" fill="#161616" opacity="0.75">Building Software Since 2023</text>
 
   <!-- faded big number -->
-  <text x="20" y="410" class="display" font-size="110" fill="#F0EFEA" opacity="0.06">01</text>
+  <text x="20" y="410" class="display" font-size="110" fill="#161616" opacity="0.06">01</text>
 
   <!-- vertical side text -->
-  <text x="1185" y="200" class="mono" font-size="12" fill="#F0EFEA" opacity="0.45" transform="rotate(90 1185 200)">JOHN NYAMWEYA &#183; 2026</text>
+  <text x="1185" y="200" class="mono" font-size="12" fill="#161616" opacity="0.45" transform="rotate(90 1185 200)">JOHN NYAMWEYA &#183; 2026</text>
 </svg>
