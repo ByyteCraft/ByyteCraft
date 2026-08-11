@@ -1,20 +1,21 @@
 <svg width="1200" height="350" viewBox="0 0 1200 350" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
+        <linearGradient id="card-background" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0f2027"/><stop offset="100%" stop-color="#203a43"/></linearGradient>
+<style>
       .mono { font-family: 'Courier New', Courier, monospace; }
       .display { font-family: Arial, Helvetica, sans-serif; font-weight: 900; }
       .body { font-family: Arial, Helvetica, sans-serif; }
     </style>
   </defs>
-  <rect width="1200" height="350" rx="18" fill="#F0EFEA"/>
+  <rect width="1200" height="350" rx="18" fill="url(#card-background)"/>
 
-  <circle cx="42" cy="40" r="6" fill="#161616"/>
+  <circle cx="42" cy="40" r="6" fill="#F0EFEA"/>
   <circle cx="60" cy="40" r="6" fill="#F5A623"/>
-  <line x1="80" y1="40" x2="1050" y2="40" stroke="#161616" stroke-width="1" opacity="0.35"/>
-  <text x="1158" y="45" text-anchor="end" class="mono" font-size="14" fill="#161616" opacity="0.6">JN &#183; 2026</text>
+  <line x1="80" y1="40" x2="1050" y2="40" stroke="#F0EFEA" stroke-width="1" opacity="0.35"/>
+  <text x="1158" y="45" text-anchor="end" class="mono" font-size="14" fill="#F0EFEA" opacity="0.6">JN &#183; 2026</text>
 
   <rect x="40" y="90" width="110" height="64" rx="16" fill="#F5A623"/>
   <text x="95" y="136" text-anchor="middle" class="display" font-size="32" fill="#161616">02</text>
-  <text x="170" y="136" class="display" font-size="34" fill="#161616">Stack<tspan fill="#F5A623">.</tspan></text>
-<line x1="40" y1="172" x2="1160" y2="172" stroke="#161616" stroke-width="1" opacity="0.2"/><text x="42" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">BACKEND</text><text x="42" y="244" class="body" font-size="15" fill="#161616" opacity="0.85">Service architecture, REST APIs,</text><text x="42" y="266" class="body" font-size="15" fill="#161616" opacity="0.85">systems that hold up under real</text><text x="42" y="288" class="body" font-size="15" fill="#161616" opacity="0.85">traffic &#8212; not demo traffic.</text><text x="42" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#161616" opacity="0.5">JAVA &#183; SPRING BOOT &#183; KOTLIN</text><text x="420" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">DATA</text><text x="420" y="244" class="body" font-size="15" fill="#161616" opacity="0.85">Relational by default. Document</text><text x="420" y="266" class="body" font-size="15" fill="#161616" opacity="0.85">stores brought in deliberately,</text><text x="420" y="288" class="body" font-size="15" fill="#161616" opacity="0.85">not by habit.</text><text x="420" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#161616" opacity="0.5">POSTGRESQL &#183; MONGODB &#183; SQL</text><text x="798" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">MOBILE</text><text x="798" y="244" class="body" font-size="15" fill="#161616" opacity="0.85">Cross-platform apps that still</text><text x="798" y="266" class="body" font-size="15" fill="#161616" opacity="0.85">feel considered, not</text><text x="798" y="288" class="body" font-size="15" fill="#161616" opacity="0.85">templated.</text><text x="798" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#161616" opacity="0.5">FLUTTER &#183; DART</text>
+  <text x="170" y="136" class="display" font-size="34" fill="#F0EFEA">Stack<tspan fill="#F5A623">.</tspan></text>
+<line x1="40" y1="172" x2="1160" y2="172" stroke="#F0EFEA" stroke-width="1" opacity="0.2"/><text x="42" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">BACKEND</text><text x="42" y="244" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">Service architecture, REST APIs,</text><text x="42" y="266" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">systems that hold up under real</text><text x="42" y="288" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">traffic &#8212; not demo traffic.</text><text x="42" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#F0EFEA" opacity="0.5">JAVA &#183; SPRING BOOT &#183; KOTLIN</text><text x="420" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">DATA</text><text x="420" y="244" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">Relational by default. Document</text><text x="420" y="266" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">stores brought in deliberately,</text><text x="420" y="288" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">not by habit.</text><text x="420" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#F0EFEA" opacity="0.5">POSTGRESQL &#183; MONGODB &#183; SQL</text><text x="798" y="214" class="mono" font-size="15" letter-spacing="1" fill="#F5A623" font-weight="bold">MOBILE</text><text x="798" y="244" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">Cross-platform apps that still</text><text x="798" y="266" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">feel considered, not</text><text x="798" y="288" class="body" font-size="15" fill="#F0EFEA" opacity="0.85">templated.</text><text x="798" y="320" class="mono" font-size="11" letter-spacing="0.5" fill="#F0EFEA" opacity="0.5">FLUTTER &#183; DART</text>
 </svg>
