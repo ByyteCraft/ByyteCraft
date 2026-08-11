@@ -5,6 +5,7 @@
   <img src="readme/banner-light.svg" alt="John Nyamweya — Software Engineer & Founder" width="100%">
 </picture>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/section-01-now-dark.svg">
   <img src="readme/section-01-now-light.svg" alt="01 — Now" width="100%">
@@ -50,6 +51,7 @@
 <a href="https://github.com/ByyteCraft"><img src="https://img.shields.io/badge/-ByyteCraft-161616?style=for-the-badge&logo=github&logoColor=F5A623" /></a>
 
 <br/><br/>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/footer-dark.svg">
