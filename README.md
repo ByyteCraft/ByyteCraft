@@ -32,8 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ByyteCraft&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default&bg_color=F0EFEA&title_color=161616&text_color=161616&icon_color=F5A623&border_color=161616&border_radius=16" height="165" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ByyteCraft&theme=default&background=161616&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F0EFEA&sideLabels=F0EFEA&dates=F0EFEA&border=F5A623&border_radius=16">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByyteCraft&theme=default&background=F0EFEA&stroke=161616&ring=F5A623&fire=F5A623&currStreakLabel=161616&sideLabels=161616&dates=161616&border=161616&border_radius=16" height="165" alt="GitHub streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=161616&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F0EFEA&sideLabels=F0EFEA&dates=F0EFEA&border=F5A623&border_radius=16">
+  <img src="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=F0EFEA&stroke=161616&ring=F5A623&fire=F5A623&currStreakLabel=161616&sideLabels=161616&dates=161616&border=161616&border_radius=16" height="165" alt="GitHub streak">
 </picture>
 <br/>
 <picture>
