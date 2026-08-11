@@ -28,17 +28,17 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=0f2027&border_color=F5A623&icon_color=F5A623">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=0f2027&border_color=F5A623&icon_color=F5A623" height="165" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=161616&border_color=F5A623&icon_color=F5A623">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByyteCraft&theme=github&title_color=161616&text_color=161616&bg_color=F0EFEA&border_color=161616&icon_color=F5A623" height="165" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=90,0f2027,203a43&stroke=F0EFEA&ring=F5A623&fire=F5A623&currStreakLabel=F0EFEA&sideLabels=F0EFEA&dates=F0EFEA&border=F5A623&border_radius=16">
-  <img src="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=90,0f2027,203a43&stroke=F0EFEA&ring=F5A623&fire=F5A623&currStreakLabel=F0EFEA&sideLabels=F0EFEA&dates=F0EFEA&border=F5A623&border_radius=16" height="165" alt="GitHub streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=161616&stroke=F5A623&ring=F5A623&fire=F5A623&currStreakLabel=F0EFEA&sideLabels=F0EFEA&dates=F0EFEA&border=F5A623&border_radius=16">
+  <img src="https://streak-stats.demolab.com/?user=ByyteCraft&theme=default&background=F0EFEA&stroke=161616&ring=F5A623&fire=F5A623&currStreakLabel=161616&sideLabels=161616&dates=161616&border=161616&border_radius=16" height="165" alt="GitHub streak">
 </picture>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=0f2027&border_color=F5A623&chart_color=F5A623">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=0f2027&border_color=F5A623&chart_color=F5A623" height="165" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByyteCraft&theme=github_dark&title_color=F5A623&text_color=F0EFEA&bg_color=161616&border_color=F5A623&chart_color=F5A623">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByyteCraft&theme=github&title_color=161616&text_color=161616&bg_color=F0EFEA&border_color=161616&chart_color=F5A623" height="165" alt="Top languages">
 </picture>
 
 <picture>
